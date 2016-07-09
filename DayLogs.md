@@ -17,4 +17,10 @@
 <b> Links to the work: </b> LearnCodeTheHardWay and ScriptGod repo on GitHub
 
 
+### Day 2: July 8, 2016
 
+<b> Thoughts: </b> Slowly getting towards a better stream of productivity, still not what I want but slowly working towards it which is something I feel better about. 
+
+<b> Today's Progress: </b> Finished about 4-5 exercises on LPTHW and listened to 8 chapters of You Are A Badass. 
+
+<b> Links to the work: </b> LearnCodeTheHardWay repo on GitHub 
