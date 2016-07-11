@@ -24,3 +24,11 @@
 <b> Today's Progress: </b> Finished about 4-5 exercises on LPTHW and listened to 8 chapters of You Are A Badass. 
 
 <b> Links to the work: </b> LearnCodeTheHardWay repo on GitHub 
+
+### Day 3: July 10, 2016
+
+<b> Thoughts: </b> Somehow I skipped a day but I'll move past that. I'm working a lot more on LPTHW but now it is time for me to begin working on large scale projects to get a lot more relevant experience.
+
+<b> Today's Progress: </b> I finished a substantial amount of exercises for LPTHW. I got up to exercise 35 before I decided to stop for day as well as 3 HackerRank challenges. 
+
+<b> Links to Work: </b> LearnCodeTheHardWay repo as well as CodeChallenges 
